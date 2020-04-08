@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">Eric Andre Soundboard</string>
+    <string name="tab_text_1">Eric-isms</string>
+    <string name="tab_text_2">Settings</string>
+    <string name="tab_text_3">Favorites</string>
+
+    <string name="share_app_body">Download the Eric Andre soundboard to play all your favorite Eric Andre quotes anytime and anywhere: </string>
+    <string name="share_app_url">https://play.google.com/store/apps/details?id=com.soundboards.alexanderpowell.ericandresoundboard</string>
+    <string name="share_using_text">Share using&#8230;</string>
+
+    <string name="suggest_new_sound_url">https://goo.gl/forms/6WQP8mptHDA4eOR03</string>
+
+    <string name="random_sound_button_text">Play random sound</string>
+    <string name="thanks_textView_text">Thanks for using the Eric Andre Soundboard!\nPlease share with your friends \nand suggest new sounds.</string>
+    <string name="share_button_text">Share</string>
+    <string name="suggest_sound_button_text">Suggest New Sound</string>
+    <string name="share_subject_text">Eric Andre Soundboard</string>
+
+    <string name="string_random">Random Eric</string>
+
+    <string name="preference_file_key">com.soundboards.alexanderpowell.ericandresoundboard.PREFERENCE_FILE_KEY</string>
+
+    <string name="empty_favorites_text">Long click a sound to \nadd to favorites</string>
+
+    <!--<string-array name="sound_titles">
+        <item>LSD</item>
+        <item>Bird Up</item>
+        <item>Cherokee Chicks</item>
+        <item>Legalize Ranch</item>
+        <item>Bases</item>
+        <item>Bill Cosby</item>
+        <item>Cameras</item>
+        <item>Hokey Pokey</item>
+        <item>Octopus</item>
+        <item># Benghazi</item>
+        <item>Mein Kampf</item>
+        <item>Mom and Dad</item>
+        <item>Monkeys</item>
+        <item>Narcolepsy</item>
+        <item>Octomom</item>
+        <item>On Wet</item>
+        <item>Oriental</item>
+        <item>Society\'s Lies</item>
+        <item>\'Sup Mello</item>
+        <item>Taxes</item>
+        <item>Vacuum</item>
+        <item>Vertical</item>
+        <item>Ranch It Up</item>
+        <item>John Wayne</item>
+        <item>Arabic</item>
+        <item>L. Ron Hubbard</item>
+        <item>Pizza Ball</item>
+        <item>Schindler\'s List</item>
+        <item>We\'ll Be Right Back</item>
+        <item>Yah Boo Bay (short)</item>
+        <item>Yah Boo Bay (long)</item>
+        <item>Yesss!</item>
+    </string-array>-->
+
+    <!--<string-array name="sound_file_names">
+        <item>lsd.mp3</item>
+        <item>bird_up.mp3</item>
+        <item>cherokee_chicks.mp3</item>
+        <item>legalize_ranch.mp3</item>
+        <item>bases.mp3</item>
+        <item>bill_cosby.mp3</item>
+        <item>cameras.mp3</item>
+        <item>hokey_pokey.mp3</item>
+        <item>octopus.mp3</item>
+        <item>\#_benghazi.mp3</item>
+        <item>mein_kampf.mp3</item>
+        <item>mom_and_dad.mp3</item>
+        <item>monkeys.mp3</item>
+        <item>narcoleptic.mp3</item>
+        <item>octomom.mp3</item>
+        <item>on_wet.mp3</item>
+        <item>oriental.mp3</item>
+        <item>societies_lies.mp3</item>
+        <item>sup_mello.mp3</item>
+        <item>taxes.mp3</item>
+        <item>vacuum.mp3</item>
+        <item>vert_horiz_mull.mp3</item>
+        <item>ranch_it_up.mp3</item>
+        <item>john_wayne.mp3</item>
+        <item>arabic.mp3</item>
+        <item>l_ron_hubbard.mp3</item>
+        <item>pizza_ball.mp3</item>
+        <item>schindlers_list.mp3</item>
+        <item>well_be_right_back.mp3</item>
+        <item>yahboobay_short.mp3</item>
+        <item>yahboobay_long.mp3</item>
+        <item>yes_guy.mp3</item>
+    </string-array>-->
+
+</resources>
