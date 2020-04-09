@@ -1,4 +1,4 @@
-package com.soundboards.alexanderpowell.ericandresoundboard;
+package com.soundboards.alexanderpowell.sopranossoundboard;
 
 import org.junit.Test;
 

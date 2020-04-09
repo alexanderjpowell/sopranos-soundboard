@@ -1,6 +1,6 @@
 <resources>
-    <string name="app_name">Eric Andre Soundboard</string>
-    <string name="tab_text_1">Eric-isms</string>
+    <string name="app_name">Sopranos Soundboard</string>
+    <string name="tab_text_1">Quotes</string>
     <string name="tab_text_2">Settings</string>
     <string name="tab_text_3">Favorites</string>
 
@@ -16,9 +16,9 @@
     <string name="suggest_sound_button_text">Suggest New Sound</string>
     <string name="share_subject_text">Eric Andre Soundboard</string>
 
-    <string name="string_random">Random Eric</string>
+    <string name="string_random">Random Quote</string>
 
-    <string name="preference_file_key">com.soundboards.alexanderpowell.ericandresoundboard.PREFERENCE_FILE_KEY</string>
+    <string name="preference_file_key">com.soundboards.alexanderpowell.sopranossoundboard.PREFERENCE_FILE_KEY</string>
 
     <string name="empty_favorites_text">Long click a sound to \nadd to favorites</string>
 

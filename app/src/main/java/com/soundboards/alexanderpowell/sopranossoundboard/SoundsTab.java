@@ -159,7 +159,6 @@ public class SoundsTab extends Fragment implements View.OnClickListener, View.On
         } catch (Exception ex) {
             ex.printStackTrace();
             Toast.makeText(getContext(), ex.getMessage(), Toast.LENGTH_LONG).show();
-            //Toast.makeText(getContext(), "ERROR", Toast.LENGTH_LONG).show();
         }
     }
 

@@ -13,12 +13,12 @@ import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentPagerAdapter;
 import androidx.viewpager.widget.ViewPager;
 import androidx.appcompat.app.AppCompatActivity;
-import com.google.android.gms.ads.AdView;
+/*import com.google.android.gms.ads.AdView;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdListener;
 import com.google.android.gms.ads.MobileAds;
 import com.google.android.gms.ads.initialization.InitializationStatus;
-import com.google.android.gms.ads.initialization.OnInitializationCompleteListener;
+import com.google.android.gms.ads.initialization.OnInitializationCompleteListener;*/
 
 public class MainActivity extends AppCompatActivity {
 
@@ -46,17 +46,17 @@ public class MainActivity extends AppCompatActivity {
 
         setVolumeControlStream(AudioManager.STREAM_MUSIC);
 
-        MobileAds.initialize(getApplicationContext(), new OnInitializationCompleteListener() {
+        /*MobileAds.initialize(getApplicationContext(), new OnInitializationCompleteListener() {
             @Override
             public void onInitializationComplete(InitializationStatus initializationStatus) {
             }
-        });
+        });*/
 
-        AdView mAdView = findViewById(R.id.adView);
-        AdRequest adRequest = new AdRequest.Builder().build();
-        mAdView.loadAd(adRequest);
+        //AdView mAdView = findViewById(R.id.adView);
+        //AdRequest adRequest = new AdRequest.Builder().build();
+        //mAdView.loadAd(adRequest);
 
-        mAdView.setAdListener(new AdListener() {
+        /*mAdView.setAdListener(new AdListener() {
             @Override
             public void onAdLoaded() {
                 // Code to be executed when an ad finishes loading.
@@ -94,7 +94,7 @@ public class MainActivity extends AppCompatActivity {
                 // to the app after tapping on an ad.
                 //Toast.makeText(getApplicationContext(), "onAdClosed", Toast.LENGTH_SHORT).show();
             }
-        });
+        });*/
 
         try {
             AssetManager assetManager = getAssets();
@@ -112,7 +112,8 @@ public class MainActivity extends AppCompatActivity {
     }*/
 
     public static String formatFileString(String filename) {
-        return filename.replaceAll("_", " ").replace(".mp3", "");
+        //return filename.replaceAll("_", " ").replace(".mp3", "");
+        return filename.replaceAll("_", " ").replace(".wav", "");
     }
 
     public class SectionsPagerAdapter extends FragmentPagerAdapter {
