@@ -16,68 +16,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dcd68c6a-4dc3-4db9-9895-b859dbfcde20" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_asynclayoutinflater_asynclayoutinflater_1_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_browser_browser_1_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_documentfile_documentfile_1_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_ui_1_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_utils_1_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_localbroadcastmanager_localbroadcastmanager_1_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_print_print_1_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_slidingpanelayout_slidingpanelayout_1_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_swiperefreshlayout_swiperefreshlayout_1_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_ads_19_0_1_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_ads_base_19_0_1_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_ads_identifier_17_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_ads_lite_19_0_1_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_basement_17_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_gass_19_0_1_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_base_17_1_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_sdk_api_17_1_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_tasks_17_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/soundboards/alexanderpowell/ericandresoundboard/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/soundboards/alexanderpowell/sopranossoundboard/ExampleInstrumentedTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/sounds/#_benghazi.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/sounds/'sup_mello.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/sounds/arabic.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/sounds/bases.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/sounds/bill_cosby.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/sounds/bird_up.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/sounds/cameras.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/sounds/cherokee_chicks.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/sounds/hokey_pokey.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/sounds/i_am_the_octopus.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/sounds/john_wayne.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/sounds/l_ron_hubbard.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/sounds/legalize_ranch.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/sounds/lsd.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/sounds/mein_kampf.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/sounds/mom_and_dad.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/sounds/monkeys.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/sounds/narcoleptic.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/sounds/octomom.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/sounds/on_wet.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/sounds/oriental.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/sounds/pizza_ball.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/sounds/ranch_it_up.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/sounds/schindler's_list.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/sounds/society's_lies.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/sounds/taxes.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/sounds/vacuum.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/sounds/vertical.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/sounds/we'll_be_right_back.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/sounds/yahboobay_(long).mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/sounds/yahboobay_(short).mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/sounds/yesss!.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/soundboards/alexanderpowell/sopranossoundboard/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/soundboards/alexanderpowell/sopranossoundboard/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/soundboards/alexanderpowell/sopranossoundboard/SoundsTab.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/soundboards/alexanderpowell/sopranossoundboard/SoundsTab.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/soundboards/alexanderpowell/ericandresoundboard/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/soundboards/alexanderpowell/sopranossoundboard/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -85,7 +38,6 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_XL_API_28" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
