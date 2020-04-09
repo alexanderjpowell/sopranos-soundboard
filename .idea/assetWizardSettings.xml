@@ -51,11 +51,17 @@
                                             <option name="values">
                                               <map>
                                                 <entry key="color" value="000000" />
+                                                <entry key="scalingPercent" value="85" />
                                               </map>
                                             </option>
                                           </PersistentState>
                                         </value>
                                       </entry>
+                                    </map>
+                                  </option>
+                                  <option name="values">
+                                    <map>
+                                      <entry key="foregroundImage" value="$PROJECT_DIR$/../../Tony_Soprano.jpg" />
                                     </map>
                                   </option>
                                 </PersistentState>

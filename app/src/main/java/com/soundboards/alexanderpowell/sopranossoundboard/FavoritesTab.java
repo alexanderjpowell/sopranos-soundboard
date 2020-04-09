@@ -47,7 +47,7 @@ public class FavoritesTab extends Fragment implements View.OnClickListener, View
     public void onViewCreated(@NonNull View view, @Nullable Bundle savedInstanceState) {
 
         TextView empty_favorites_message = requireView().findViewById(R.id.empty_favorites_message);
-        SharedPreferences sharedPreferences = getContext().getSharedPreferences(getString(R.string.preference_file_key), Context.MODE_PRIVATE);
+        SharedPreferences sharedPreferences = requireContext().getSharedPreferences(getString(R.string.preference_file_key), Context.MODE_PRIVATE);
 
         Set set = sharedPreferences.getStringSet("favorites", new HashSet<String>());
         sounds = new String[set.size()];
@@ -121,7 +121,7 @@ public class FavoritesTab extends Fragment implements View.OnClickListener, View
     @Override
     public boolean onLongClick(final View view) {
 
-        final SharedPreferences sharedPreferences = getContext().getSharedPreferences(getString(R.string.preference_file_key), Context.MODE_PRIVATE);
+        final SharedPreferences sharedPreferences = requireContext().getSharedPreferences(getString(R.string.preference_file_key), Context.MODE_PRIVATE);
         final SharedPreferences.Editor editor = sharedPreferences.edit();
 
         AlertDialog.Builder builder = new AlertDialog.Builder(requireActivity());
