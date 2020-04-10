@@ -1,2 +1,3 @@
 .gradle/*
+.idea/*
 **/*/res/values/secrets.xml

@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SopranosSoundboard.iml" filepath="$PROJECT_DIR$/SopranosSoundboard.iml" group="SopranosSoundboard" />
-      <module fileurl="file://$PROJECT_DIR$/SopranosSoundboard.iml" filepath="$PROJECT_DIR$/SopranosSoundboard.iml" group="SopranosSoundboard" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="SopranosSoundboard/app" />
     </modules>
   </component>
